@@ -1,3 +1,6 @@
+![first](https://github.com/ravi867/MULTIPLE-DISEASE-PREDICTION-SYSTEM-USING-MACHINE-LEARNING/assets/112262206/407a8369-58a5-4029-8134-35d4462d5960)
+![heart](https://github.com/ravi867/MULTIPLE-DISEASE-PREDICTION-SYSTEM-USING-MACHINE-LEARNING/assets/112262206/b714338e-3f6d-4bfb-80c8-5a31635157f3)
+![parkinsons1](https://github.com/ravi867/MULTIPLE-DISEASE-PREDICTION-SYSTEM-USING-MACHINE-LEARNING/assets/112262206/642f92f8-e2c9-4e4a-9cd7-8843101a6e94)
 Multiple Disease Prediction System
 This project aims to create a web application that predicts the likelihood of three diseases: diabetes, heart disease, and Parkinson's disease. It utilizes machine learning algorithms, specifically Support Vector Machines (SVM) and Support Vector Classifiers (SVC), to analyze user-provided data and provide risk estimates.
 
